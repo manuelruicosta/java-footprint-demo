@@ -1,1 +1,1 @@
-# Playground to play with Java core features
+# Playground for demostrating the footprints of java applications
